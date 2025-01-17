@@ -1,19 +1,60 @@
-# Dice
+# Flutter Gradient Text Widget
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![App Screenshot](./assets/screenshot.png)
+
+This Flutter project demonstrates how to create a visually appealing mobile app using a gradient background and a centered custom text widget. The project is a learning exercise focused on mastering Flutter's framework, including the creation of reusable widgets and writing clean, maintainable code.
+
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Screenshot](#screenshot)
+- [License](#license)
+
+## Features
+- 🌈 **Gradient Background**: Beautiful gradient background for enhancing app UI.
+- 🔧 **Custom Reusable Widget**: Custom text widget that can be easily reused across the app.
+- 🧼 **Clean Code**: Focus on writing clean, maintainable, and scalable Flutter code.
 
 ## Getting Started
+This project is built using Flutter, a UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
+- A code editor such as [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Installation
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/flutter-gradient-text-widget.git
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+Prerequisites
+Flutter SDK installed on your machine.
+A code editor such as VS Code or Android Studio.
+Installation
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/flutter-gradient-text-widget.git
+Navigate to the project directory:
+bash
+Copy
+Edit
+cd flutter-gradient-text-widget
+Install dependencies:
+bash
+Copy
+Edit
+flutter pub get
+Run the app:
+bash
+Copy
+Edit
+flutter run
+Usage
+You can modify the gradient in the background by updating the LinearGradient widget in the main.dart file.
+The custom reusable text widget is located in the widgets directory. It can be used throughout your project to maintain consistency in design.
