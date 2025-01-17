@@ -1,6 +1,6 @@
 # Flutter Gradient Text Widget
 
-<img src="https://github.com/pulemojatau/flutter-gradient-text-widget/blob/main/screen.png" alt="My Image" width="300" height="400"/>
+<img src="https://github.com/pulemojatau/flutter-gradient-text-widget/blob/main/screen.png" alt="My Image" width="300" height="450"/>
 
 
 This Flutter project demonstrates how to create a visually appealing mobile app using a gradient background and a centered custom text widget. The project is a learning exercise focused on mastering Flutter's framework, including the creation of reusable widgets and writing clean, maintainable code.
