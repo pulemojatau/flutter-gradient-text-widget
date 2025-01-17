@@ -32,13 +32,16 @@ This project is built using Flutter, a UI toolkit for crafting natively compiled
    git clone https://github.com/your-username/flutter-gradient-text-widget.git
 
 2. **Navigate to the project directory:**
-   ```cd flutter-gradient-text-widget
+   ```
+   cd flutter-gradient-text-widget
    
 3. **Install dependencies**
-   ```flutter pub get
+   ```
+   flutter pub get
    
 4. **Run the app**
-   ```flutter run
+   ```
+   flutter run
 
 ## Usage
 - You can modify the gradient in the background by updating the `LinearGradient` widget in the `main.dart` file.
