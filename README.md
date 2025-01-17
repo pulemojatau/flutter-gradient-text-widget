@@ -31,30 +31,20 @@ This project is built using Flutter, a UI toolkit for crafting natively compiled
    ```bash
    git clone https://github.com/your-username/flutter-gradient-text-widget.git
 
-Prerequisites
-Flutter SDK installed on your machine.
-A code editor such as VS Code or Android Studio.
-Installation
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/flutter-gradient-text-widget.git
-Navigate to the project directory:
-bash
-Copy
-Edit
-cd flutter-gradient-text-widget
-Install dependencies:
-bash
-Copy
-Edit
-flutter pub get
-Run the app:
-bash
-Copy
-Edit
-flutter run
-Usage
-You can modify the gradient in the background by updating the LinearGradient widget in the main.dart file.
-The custom reusable text widget is located in the widgets directory. It can be used throughout your project to maintain consistency in design.
+2. **Navigate to the project directory:**
+   ```cd flutter-gradient-text-widget
+   
+3. **Install dependencies**
+   ```flutter pub get
+   
+4. **Run the app**
+   ```flutter run
+
+## Usage
+- You can modify the gradient in the background by updating the `LinearGradient` widget in the `main.dart` file.
+- The custom reusable text widget is located in the `widgets` directory. It can be used throughout your project to maintain consistency in design.
+
+
+
+
+
