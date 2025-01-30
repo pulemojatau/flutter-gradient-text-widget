@@ -30,7 +30,7 @@ This project is built using Flutter, a UI toolkit for crafting natively compiled
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/flutter-gradient-text-widget.git
+   git clone https://github.com/pulemojatau/flutter-gradient-text-widget.git
 
 2. **Navigate to the project directory:**
    ```
